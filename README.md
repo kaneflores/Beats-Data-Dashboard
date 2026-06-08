@@ -101,3 +101,18 @@ Current wireless speaker brand ownership:
 **Insight:** Beats' headphone brand strength does NOT transfer to speakers. JBL's dominance is overwhelming.
  
 ---
+## Technologies Used
+ 
+### Frontend
+- **React** – Component-based UI framework
+- **Recharts** – Interactive charting library
+- **Tailwind CSS** – Utility-first styling
+### Backend/Analysis
+- **Python** – Data processing and analysis
+- **Pandas** – Data manipulation and EDA
+- **NumPy** – Numerical computations
+- **Matplotlib** – Data visualization
+### Data
+- **Google Forms** – Survey distribution
+- **CSV export** – Data format (3,552 responses)
+---
