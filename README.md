@@ -82,3 +82,12 @@ Consumer spending habits:
 - $200-$300: 6.9%
 - $300+: 3.3%
 **Insight:** Market demands sub-$100 positioning; premium pricing ($150+) limits addressable market.
+
+  ### 6. **Preferred Purchase Channels**
+Where consumers shop:
+- Amazon/Large Online: 45.9%
+- Electronics Store: 20.6%
+- Department Store: 18.0%
+- Brand Website: 13.5%
+**Insight:** Amazon is critical; physical retail more important than typical tech products.
+ 
