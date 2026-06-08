@@ -116,3 +116,39 @@ Current wireless speaker brand ownership:
 - **Google Forms** – Survey distribution
 - **CSV export** – Data format (3,552 responses)
 ---
+## How to Use the Dashboard
+ 
+### Option 1: View in Claude
+1. Open the `beats-dashboard-updated.jsx` file
+2. Click the "Render" or preview button
+3. Interact with dashboard tabs using the navigation buttons
+4. Hover over charts for detailed tooltips
+### Option 2: React Application
+1. Copy `beats-dashboard-updated.jsx` to your React project
+2. Install dependencies:
+   ```bash
+   npm install recharts
+   ```
+3. Import and use the component:
+   ```jsx
+   import BeatsWirelessSpeakerDashboard from './beats-dashboard-updated';
+   
+   export default BeatsWirelessSpeakerDashboard;
+   ```
+ 
+### Option 3: Convert to Standalone HTML
+Contact the creator to convert the React component to a standalone HTML file (includes React libraries via CDN) for easy sharing with stakeholders.
+ 
+---
+ 
+## Dashboard Navigation
+ 
+**Tabs Available:**
+- 🎯 **Recommendation** – Strategic decision and action items
+- 📊 **Survey Details** – Demographic composition and respondent overview
+- ⭐ **Important Features** – Feature importance rankings with analysis
+- 💡 **Purchase Factors** – What drives purchasing decisions
+- 💰 **Price Points** – Consumer spending distribution and pricing strategy
+- 🛒 **Purchase Channels** – Distribution channel preferences and strategy
+- 🏆 **Brand Recognition** – Competitive brand landscape and Beats' positioning
+---
