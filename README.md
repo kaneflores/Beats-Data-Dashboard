@@ -90,4 +90,14 @@ Where consumers shop:
 - Department Store: 18.0%
 - Brand Website: 13.5%
 **Insight:** Amazon is critical; physical retail more important than typical tech products.
+ ### 7. **Brand Recognition & Market Share**
+Current wireless speaker brand ownership:
+- JBL: 62.6% (2,223 respondents)
+- Bose: 32.3% (1,146 respondents)
+- Sony: 24.6% (874 respondents)
+- Samsung: 14.8% (525 respondents)
+- Marshall: 5.9% (209 respondents)
+- **Beats: 1.5% (53 respondents)**
+**Insight:** Beats' headphone brand strength does NOT transfer to speakers. JBL's dominance is overwhelming.
  
+---
