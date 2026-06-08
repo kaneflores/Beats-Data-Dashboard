@@ -74,3 +74,11 @@ What actually drives purchase decisions (0-100 importance):
 - Friend Recommendations (57.8)
 - Advertising (48.5)
 **Insight:** Price dominates; advertising is ineffective.
+### 5. **Price Point Preferences**
+Consumer spending habits:
+- Less than $50: 31.6%
+- $50-$100: 34.7%
+- $100-$200: 23.5%
+- $200-$300: 6.9%
+- $300+: 3.3%
+**Insight:** Market demands sub-$100 positioning; premium pricing ($150+) limits addressable market.
