@@ -32,3 +32,11 @@ This dashboard synthesizes survey data on consumer preferences, purchasing behav
    - Amazon: 45.9% (dominant online)
    - Physical retail: 38.6% (electronics + department stores)
    - Brand website: 13.5% (minimal)
+ 
+## 📊 Target Market Profile
+ 
+- **Primary Demographics:** Ages 18-34 (86.5% of market)
+- **Gender:** Balanced appeal (51.5% Female, 45.7% Male)
+- **Income:** Broad distribution; 66% under $100 price point
+- **Purchase Channel:** Online-first (Amazon) with strong physical retail presence
+---
