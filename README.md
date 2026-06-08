@@ -63,3 +63,14 @@ Feature importance rankings (0-100 scale):
 - Battery Life (57.7)
 - Price (57.1)
 **Insight:** Minimal variance indicates all features are table stakes; no differentiation opportunity.
+
+### 4. **Purchasing Decision Factors**
+What actually drives purchase decisions (0-100 importance):
+- Price (78.3)
+- Brand Reputation (73.4)
+- Online Reviews (68.3)
+- Specific Features (68.3)
+- Expert Reviews (67.4)
+- Friend Recommendations (57.8)
+- Advertising (48.5)
+**Insight:** Price dominates; advertising is ineffective.
