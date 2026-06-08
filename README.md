@@ -40,3 +40,26 @@ This dashboard synthesizes survey data on consumer preferences, purchasing behav
 - **Income:** Broad distribution; 66% under $100 price point
 - **Purchase Channel:** Online-first (Amazon) with strong physical retail presence
 ---
+## Dashboard Sections
+ 
+### 1. **Executive Recommendation**
+Strategic go/no-go decision with:
+- Market entry assessment
+- Competitive positioning challenges
+- Pricing constraints and market realities
+- Key strategic actions or alternative recommendations
+### 2. **Survey Details**
+Demographic breakdown showing:
+- Age distribution (pie chart)
+- Gender distribution (pie chart)
+- Household income distribution (bar chart)
+- Total respondent count and composition
+### 3. **Most Important Features**
+Feature importance rankings (0-100 scale):
+- Sound Quality (59.4)
+- Durability (59.1)
+- Design/Looks (58.6)
+- Connectivity Options (57.8)
+- Battery Life (57.7)
+- Price (57.1)
+**Insight:** Minimal variance indicates all features are table stakes; no differentiation opportunity.
